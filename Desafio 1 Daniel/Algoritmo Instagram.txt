@@ -1,0 +1,40 @@
+Premisas:
+
+Tener un dispositivo movil encendido y con conexion a internet
+
+Tener instalada la aplicacion de Instagram
+
+Tener una cuenta registrada en Instagram y conocer los datos
+
+Tener la imagen en la galeria del dispositivo
+
+Tener el Escrito para el Pie de foto
+
+
+
+
+
+Algoritmo:
+1- Abrir la aplicacion de Instagram
+2- Ingresar usuario
+3- Ingresar contraseña
+4- Hacer clic en iniciar sesion
+5- Dezlisar el dedo en la pantalla del dispositivo hacia la derecha
+6- Seleccionar la opcion de publicacion
+7- Buscar en la galeria la imagen
+8- Hacer clic en la fecha azul de la parte superior para continuar
+9- Elegir filtro para la imagen si lo desea
+10- Hacer clic en la fecha azul de la parte superior para continuar
+11- Ingresar el escrito de pie de foto
+12- Hacer clic en el icono azul en la parte superior
+13- Esperar que suba la imagen
+14- Salir de la aplicacion
+
+
+
+
+Datos:
+1 Usuario (Paso 2)
+2 Contraseña (paso 3)
+3 Imagen (Paso 7)
+4 Escrito para pie de foto (Paso 11)
